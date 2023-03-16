@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/engSfedu/home/static/css/main.e7ec4064.css",
-    "main.js": "/engSfedu/home/static/js/main.5954cf35.js",
-    "static/js/787.b4527b5a.chunk.js": "/engSfedu/home/static/js/787.b4527b5a.chunk.js",
-    "static/media/SourceSansPro-Regular.ttf": "/engSfedu/home/static/media/SourceSansPro-Regular.df87f53caf449a3b7572.ttf",
-    "static/media/icon.png": "/engSfedu/home/static/media/icon.863f6bcf989af6da912b.png",
-    "index.html": "/engSfedu/home/index.html",
-    "main.e7ec4064.css.map": "/engSfedu/home/static/css/main.e7ec4064.css.map",
-    "main.5954cf35.js.map": "/engSfedu/home/static/js/main.5954cf35.js.map",
-    "787.b4527b5a.chunk.js.map": "/engSfedu/home/static/js/787.b4527b5a.chunk.js.map"
+    "main.css": "/engSfedu/static/css/main.05113ec4.css",
+    "main.js": "/engSfedu/static/js/main.75ea973a.js",
+    "static/js/787.b4527b5a.chunk.js": "/engSfedu/static/js/787.b4527b5a.chunk.js",
+    "static/media/SourceSansPro-Regular.ttf": "/engSfedu/static/media/SourceSansPro-Regular.df87f53caf449a3b7572.ttf",
+    "static/media/icon.png": "/engSfedu/static/media/icon.863f6bcf989af6da912b.png",
+    "index.html": "/engSfedu/index.html",
+    "main.05113ec4.css.map": "/engSfedu/static/css/main.05113ec4.css.map",
+    "main.75ea973a.js.map": "/engSfedu/static/js/main.75ea973a.js.map",
+    "787.b4527b5a.chunk.js.map": "/engSfedu/static/js/787.b4527b5a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7ec4064.css",
-    "static/js/main.5954cf35.js"
+    "static/css/main.05113ec4.css",
+    "static/js/main.75ea973a.js"
   ]
 }
