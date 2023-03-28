@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/engSfedu/static/css/main.38e79f3a.css",
-    "main.js": "/engSfedu/static/js/main.fedf33ef.js",
+    "main.js": "/engSfedu/static/js/main.82c97cec.js",
     "static/media/SourceSansPro-Regular.ttf": "/engSfedu/static/media/SourceSansPro-Regular.df87f53caf449a3b7572.ttf",
     "static/media/icon.png": "/engSfedu/static/media/icon.863f6bcf989af6da912b.png",
     "index.html": "/engSfedu/index.html",
     "main.38e79f3a.css.map": "/engSfedu/static/css/main.38e79f3a.css.map",
-    "main.fedf33ef.js.map": "/engSfedu/static/js/main.fedf33ef.js.map"
+    "main.82c97cec.js.map": "/engSfedu/static/js/main.82c97cec.js.map"
   },
   "entrypoints": [
     "static/css/main.38e79f3a.css",
-    "static/js/main.fedf33ef.js"
+    "static/js/main.82c97cec.js"
   ]
 }
