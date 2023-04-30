@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/engSfedu/static/css/main.61823d7a.css",
-    "main.js": "/engSfedu/static/js/main.4544564c.js",
+    "main.css": "/engSfedu/static/css/main.ce9e1706.css",
+    "main.js": "/engSfedu/static/js/main.90b29a0f.js",
     "static/media/paper2.pdf": "/engSfedu/static/media/paper2.d9e586d1f56fcc2192fe.pdf",
     "static/media/u1t1p1.pdf": "/engSfedu/static/media/u1t1p1.1174e2dd58f63161ff46.pdf",
     "static/media/paper4.pdf": "/engSfedu/static/media/paper4.3d6483d9b208a37746f2.pdf",
@@ -17,11 +17,11 @@
     "static/media/SourceSansPro-Regular.ttf": "/engSfedu/static/media/SourceSansPro-Regular.df87f53caf449a3b7572.ttf",
     "static/media/icon.png": "/engSfedu/static/media/icon.863f6bcf989af6da912b.png",
     "index.html": "/engSfedu/index.html",
-    "main.61823d7a.css.map": "/engSfedu/static/css/main.61823d7a.css.map",
-    "main.4544564c.js.map": "/engSfedu/static/js/main.4544564c.js.map"
+    "main.ce9e1706.css.map": "/engSfedu/static/css/main.ce9e1706.css.map",
+    "main.90b29a0f.js.map": "/engSfedu/static/js/main.90b29a0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.61823d7a.css",
-    "static/js/main.4544564c.js"
+    "static/css/main.ce9e1706.css",
+    "static/js/main.90b29a0f.js"
   ]
 }
