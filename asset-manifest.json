@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/engSfedu/static/css/main.d17b49f5.css",
-    "main.js": "/engSfedu/static/js/main.1c6fb553.js",
+    "main.css": "/engSfedu/static/css/main.58b72a55.css",
+    "main.js": "/engSfedu/static/js/main.03e33211.js",
     "static/media/video1.1.mp4": "/engSfedu/static/media/video1.1.324fdd9267d4d78f7362.mp4",
     "static/media/video2.2.mp4": "/engSfedu/static/media/video2.2.c777fa3f5ababeeb0168.mp4",
     "static/media/p13.pdf": "/engSfedu/static/media/p13.86b227d43b28e302f95a.pdf",
@@ -32,11 +32,11 @@
     "static/media/signposting.png": "/engSfedu/static/media/signposting.49a8aa1152649f1d2829.png",
     "static/media/speaking2.png": "/engSfedu/static/media/speaking2.541001487c4ff0a7aac6.png",
     "index.html": "/engSfedu/index.html",
-    "main.d17b49f5.css.map": "/engSfedu/static/css/main.d17b49f5.css.map",
-    "main.1c6fb553.js.map": "/engSfedu/static/js/main.1c6fb553.js.map"
+    "main.58b72a55.css.map": "/engSfedu/static/css/main.58b72a55.css.map",
+    "main.03e33211.js.map": "/engSfedu/static/js/main.03e33211.js.map"
   },
   "entrypoints": [
-    "static/css/main.d17b49f5.css",
-    "static/js/main.1c6fb553.js"
+    "static/css/main.58b72a55.css",
+    "static/js/main.03e33211.js"
   ]
 }
