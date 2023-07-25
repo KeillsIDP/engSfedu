@@ -1,9 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.300c0d35.css",
-    "main.js": "./static/js/main.fd9512bd.js",
+    "main.css": "./static/css/main.23fc4068.css",
+    "main.js": "./static/js/main.2be1ae88.js",
     "static/media/video1.1.mp4": "./static/media/video1.1.324fdd9267d4d78f7362.mp4",
+    "static/media/u3s11.mkv": "./static/media/u3s11.52798337dffd7413588d.mkv",
+    "static/media/u3s13.mkv": "./static/media/u3s13.984ca831d70d46186ef2.mkv",
+    "static/media/u3s16.mkv": "./static/media/u3s16.a711c558ab9110addd6f.mkv",
     "static/media/video2.2.mp4": "./static/media/video2.2.c777fa3f5ababeeb0168.mp4",
+    "static/media/u3s14.mkv": "./static/media/u3s14.cec529e759533a7a0ab5.mkv",
+    "static/media/u3s15.mkv": "./static/media/u3s15.c14d315c995baef43d8b.mkv",
+    "static/media/u3s12.mkv": "./static/media/u3s12.2e4396ae7a19977d254a.mkv",
     "static/media/p13.pdf": "./static/media/p13.86b227d43b28e302f95a.pdf",
     "static/media/p9.pdf": "./static/media/p9.6179b0bc7f1cf8e5ef18.pdf",
     "static/media/paper2.pdf": "./static/media/paper2.d9e586d1f56fcc2192fe.pdf",
@@ -41,11 +47,11 @@
     "static/media/speaking2.png": "./static/media/speaking2.541001487c4ff0a7aac6.png",
     "static/media/grushko.jpeg": "./static/media/grushko.524c84d055529d31d71b.jpeg",
     "index.html": "./index.html",
-    "main.300c0d35.css.map": "./static/css/main.300c0d35.css.map",
-    "main.fd9512bd.js.map": "./static/js/main.fd9512bd.js.map"
+    "main.23fc4068.css.map": "./static/css/main.23fc4068.css.map",
+    "main.2be1ae88.js.map": "./static/js/main.2be1ae88.js.map"
   },
   "entrypoints": [
-    "static/css/main.300c0d35.css",
-    "static/js/main.fd9512bd.js"
+    "static/css/main.23fc4068.css",
+    "static/js/main.2be1ae88.js"
   ]
 }
