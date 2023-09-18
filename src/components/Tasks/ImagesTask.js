@@ -1,4 +1,5 @@
 import { TextContainer } from '../TasksUtils/TextContainer';
+import {Video} from '../TasksUtils/Video'
 
 export const ImagesTask = ({images,useLetters,helpText,text,links}) => {
     const imText = images;
@@ -11,9 +12,7 @@ export const ImagesTask = ({images,useLetters,helpText,text,links}) => {
                 </li>
                 <div className="image">
                 {
-                    links?
-                    links[i]
-                        :<img src={images[i]}/>
+                    links?<Video vid = {links[i]}/>:''
                 }
                 
                 </div>

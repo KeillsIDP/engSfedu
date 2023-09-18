@@ -208,8 +208,10 @@ video {
 }
 
 .image{
-  align-self: center;
+  display: flex;
+  justify-content: center;
 }
+
 
 iframe{
   margin-left: 5vw;

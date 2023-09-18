@@ -11,7 +11,7 @@ import {VideoShow} from '../Tasks/VideoShow'
 import {TextAndImageShow} from '../Tasks/TextAndImageShow'
 import {TrueFalseTask} from '../Tasks/TrueFalseTask';
 import {SecondUnitBigText} from './SecondUnitBigText';
-import video21 from '../../videos/video 2.1.mp4'
+import video21 from '../../videos/video2.2.mp4'
 import video22 from '../../videos/video2.2.mp4'
 import speaking from '../../img/speaking2.png'
 import table from '../../img/table2.1.png'
@@ -214,7 +214,7 @@ export const SecondUnit = () =>{
                 helpText=''
                 useMultiple
                 papers={[p10,p12,p13,p14,p9,p15,p11,p17]}
-                paperIndex = {['10','12','13','14','9','15','11','17']}
+                paperIndex = {['11','12','13','14','15','16','17','18']}
                 rightAnswers={['C','G',['A','F'],'D','E',['B','H']]}
                 answers={['A','B','C','D','E','F','G','H']}
                 toCompare={['1. Experimental',
@@ -263,7 +263,7 @@ export const SecondUnit = () =>{
                     ]}
                     helpText={''}
                     papersOne={[p10,p12,p13,p14,p9,p15,p11,p17]}
-                    paperIndexOne = {['10','12','13','14','9','15','11','17']}
+                    paperIndexOne = {['11','12','13','14','15','16','17','18']}
                     rightText=''
                     noHeadersText={[
                         ['Interdisciplinary Programming Language Design','M. Coblenz, J. Aldrich, B. A. Myers, J. Sunshine','Approaches for programming language design used commonly in the research community today center around theoretical and performance-oriented evaluation. Recently, researchers have been considering more approaches to language design, including the use of quantitative and qualitative user studies that examine how different designs might affect programmers. In this paper, we argue for an interdisciplinary approach that incorporates many different methods in the creation and evaluation of programming languages. We argue that the addition of user-oriented design techniques can be helpful at many different stages in the programming language design process.'],

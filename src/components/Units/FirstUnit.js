@@ -11,7 +11,7 @@ import {VideoShow} from '../Tasks/VideoShow'
 import {TextAndImageShow} from '../Tasks/TextAndImageShow'
 import video1img from '../../img/video1.1.png' 
 import video1 from '../../videos/video1.1.mp4'
-import video2 from '../../videos/video 1.2.mp4'
+import video2 from '../../videos/video2.2.mp4'
 import u1r3p1 from '../../pdf/u1r3p1.pdf'
 import u1r3p2 from '../../pdf/u1r3p2.pdf'
 import u1r3p3 from '../../pdf/u1r3p3.pdf'
@@ -208,7 +208,7 @@ export const FirstUnit = () =>{
                 helpText=''
                 rightAnswers={['C','F','E','D']}
                 answers={['A','B','C','D','E','F']}
-                paperIndex={['2','1','4','3']}
+                paperIndex={['4','5','6','7' ]}
                 papers={[paper2,paper1,paper4,paper3]}
                 toCompare={['1. Stress-based shape and topology optimization with the level set method',
                     '2. Stochastic Discontinuous Galerkin Methods based on fluctuation-dissipation balance ',
@@ -235,7 +235,7 @@ export const FirstUnit = () =>{
                 useMultiple
                 helpText=''
                 papers={[u1r3p1,u1r3p2,u1r3p3,u1r3p5,u1r3p4]}
-                paperIndex = {['4','5','6','8','7']}
+                paperIndex = {['6','8','9','10','11']}
                 rightAnswers={[['A','E'],['C','D'],['B','C','D','E'],['C']]}
                 answers={['A','B','C','D','E']}
                 toCompare={['1. Inform about people who in addition to the authors contributed to the work   ',
@@ -374,10 +374,10 @@ export const FirstUnit = () =>{
                         '20. This material is based upon work supported by …'
                     ]}
                     helpText={''}
-                    paperIndexOne={['2','1','4','3']}
+                    paperIndexOne={['4','5','6','7']}
                     papersOne={[paper2,paper1,paper4,paper3]}
                     papersTwo={[u1r3p1,u1r3p2,u1r3p3,u1r3p5,u1r3p4]}
-                    paperIndexTwo = {['4','5','6','8','7']}
+                    paperIndexTwo = {['6','8','9','10','11']}
                     rightText={["We are also indebted to P. Getreuer, for making available the waveletcdf97 MATLAB function that we have used for the transformation of each single channel image to the wavelet domain.",
                     "The authors are grateful for an anonymous referee, for valuable  comments and alerting us that the global efficiency measure is the Harary index divided by n/2. Research was supported by a National Science Foundation Research Experience for Undergraduates Site Award #1062128.",
                     "The research described in this chapter has been supported by grants #0083075, #0205679, #0205724, #0350754, and #0534771 from the U.S. National Science Foundation. No endorsement implied. Mark Ackerman at University of Michigan, Ann Arbor; Les Gasser at University of Illinois, UrbanaChampaign; John Noll at Santa Clara University; Margaret Elliott, Chris Jensen, and others at the UCI Institute for Software Research are collaborators on the research described here.",

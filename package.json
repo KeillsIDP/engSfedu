@@ -1,8 +1,8 @@
 {
-  "name": "engsfedu",
+  "name": "asd",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KeillsIDP.github.io/engSfedu/#/",
+  "homepage": ".",
   "dependencies": {
     "@mdi/react": "^1.6.1",
     "@react-pdf-viewer/core": "^3.12.0",

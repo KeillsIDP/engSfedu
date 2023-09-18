@@ -1,4 +1,5 @@
 import './App.css';
+import { useEffect } from 'react';
 import {NavBar} from './components/NavBar'
 import {Footer} from './components/Footer'
 import {Home} from './components/Home'
@@ -11,7 +12,9 @@ import {FourthUnit} from './components/Units/FourthUnit.js'
 import {Routes,Route, BrowserRouter} from 'react-router-dom'
 
 function App() {
-
+  useEffect(() => {
+    document.title = 'English for Science Communication';
+  }, []);
   return (
     <div className='App'>
       <NavBar/>
